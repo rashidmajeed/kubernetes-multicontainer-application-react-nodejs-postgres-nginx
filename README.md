@@ -7,6 +7,7 @@ Application Stack
 
 ## Architecture
  A diagram shows graphical description of whole project structure.
+ ![multicontainer-kubernetes](https://user-images.githubusercontent.com/21228768/143078225-708fa5c8-ca22-4c53-b67f-4ca9a7aa14f5.png)
 
 ## Instructions
 `
